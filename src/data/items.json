@@ -1,0 +1,23 @@
+
+ 
+
+[
+  {
+    "id": 1,
+    "name": "Personalizsed Heart Station",
+    "price": 10.99,
+    "imgUrl": "/imgs/2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Diamond Personalised Bracelet",
+    "price": 1199,
+    "imgUrl": "/imgs/3.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Silly one",
+    "price": 1.05,
+    "imgUrl": "/imgs/4.jpg"
+  }
+]
